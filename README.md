@@ -6,7 +6,7 @@ You can learn more about my technical and creative works in my [portfolio](https
 
 Recently, I've been:
 
-- Building a [B2B SaaS Hiring Platform](https://talent.tampa.dev/) to support [Tampa Devs](https://www.tampadevs.com/), my educational nonprofit,
+- Building a [B2B SaaS Hiring Platform](https://talent.tampa.dev/) to support [Tampa Devs](https://www.tampadevs.com/), the educational nonprofit I co-founded,
 - [Contributing SARIF support](https://github.com/Legit-Labs/legitify/pull/192) to [Legitify](https://github.com/Legit-Labs/legitify),
 - [Contributing SARIF support](https://github.com/Legit-Labs/legitify/pull/192) to PortSwigger's [Dastardly](https://portswigger.net/burp/dastardly) Action,
 - Hacking on a [toy language](https://github.com/chtzvt/cbat-vm-rb) to resurrect my old [BBS](https://github.com/chtzvt/X-DOS-BBS),
