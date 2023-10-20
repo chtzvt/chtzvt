@@ -6,6 +6,7 @@ You can learn more about my technical and creative works in my [portfolio](https
 
 Recently, I've been:
 
+- Building [large-scale GitHub migration tools](https://github.com/XpiritBV/gei-issue-ops) managed entirely with issues (IssueOps),
 - Building a [B2B SaaS Hiring Platform](https://talent.tampa.dev/) to support [Tampa Devs](https://www.tampadevs.com/), the educational nonprofit I co-founded,
 - [Contributing SARIF support](https://github.com/Legit-Labs/legitify/pull/192) to [Legitify](https://github.com/Legit-Labs/legitify),
 - [Contributing SARIF support](https://github.com/chtzvt/dastardly) to PortSwigger's [Dastardly](https://portswigger.net/burp/dastardly) Action,
